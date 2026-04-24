@@ -1,7 +1,7 @@
 use File::Basename;
 use Getopt::Std;
 use Cwd 'abs_path';     # aka realpath()
-my $full_list = "Piplus_20234701.list";
+my $full_list = "Piplus_20234702.list";
 
 
 open(inFile,"$full_list");
